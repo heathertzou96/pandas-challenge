@@ -1,0 +1,5 @@
+You must include a written description of three observable trends based on the data:
+
+- Most of the players of Heroes of Pymoli are male and hence makes most number of the purchases
+- Close to half of the players are in the 20-24 age group and also makes most number of the purchases
+- The most popular item is the “Oathbreaker, Last Hope of the Breaking Storm” which makes sense that it is also the most profitable item
